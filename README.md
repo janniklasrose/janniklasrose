@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Most of my repositories are currently hosted on [GitLab](https://gitlab.com/janniklasrose/) 🤷‍♂️, so pay my profile a visit over there.
+
 <!--
 **janniklasrose/janniklasrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
