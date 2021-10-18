@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Most of my repositories are currently hosted on [GitLab](https://gitlab.com/janniklasrose/) 🤷‍♂️, so pay my profile a visit over there.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=janniklasrose&count_private=true&show_icons=true&include_all_commits=true&hide=stars)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janniklasrose&layout=compact&langs_count=10)
 
 <!--
 **janniklasrose/janniklasrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
