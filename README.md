@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there :wave:
+
+My name is Jan [[jan](https://en.wiktionary.org/wiki/Jan#German)].
+
+## Code snippets
+
+I dislike the way GitHub gists are displayed and much prefer GitLab snippets, which have a designated title (not just the file name) and a Markdown-enabled description.
+Have a look at some of [my snippets](https://gitlab.com/users/janniklasrose/snippets).
+
+## Some of my GitHub statistics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=janniklasrose&count_private=true&show_icons=true&include_all_commits=true&hide=stars)
 
