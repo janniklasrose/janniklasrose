@@ -16,8 +16,8 @@ Most of my work is published here on GitHub, so feel free to browse my repositor
 I dislike the way GitHub gists are displayed and much prefer GitLab snippets, which have a designated title (not just the file name) and a Markdown-enabled description.
 Have a look at some of my [code snippets](https://gitlab.com/users/janniklasrose/snippets).
 
+<!-- 
 ## Some of my GitHub statistics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=janniklasrose&count_private=true&show_icons=true&include_all_commits=true&hide=stars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janniklasrose&layout=compact&langs_count=10)
+Currently broken, recommended approach is to use GitHub Actions on cron: https://github.com/marketplace/actions/github-readme-stats-action
+-->
