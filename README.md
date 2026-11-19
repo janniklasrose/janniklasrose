@@ -16,8 +16,44 @@ Most of my work is published here on GitHub, so feel free to browse my repositor
 I dislike the way GitHub gists are displayed and much prefer GitLab snippets, which have a designated title (not just the file name) and a Markdown-enabled description.
 Have a look at some of my [code snippets](https://gitlab.com/users/janniklasrose/snippets).
 
-<!-- 
-## Some of my GitHub statistics
+## Repositories
 
-Currently broken, recommended approach is to use GitHub Actions on cron: https://github.com/marketplace/actions/github-readme-stats-action
--->
+Here is a selection of my repositories.
+
+### MATLAB utilities
+
+- https://github.com/janniklasrose/HandleClass
+- https://github.com/janniklasrose/RNGen
+- https://github.com/janniklasrose/STL-tools
+- https://github.com/janniklasrose/SVG-writer
+
+### Trachea work
+
+- https://github.com/janniklasrose/TracheAssistant
+- https://github.com/janniklasrose/compare-segmentation
+- https://github.com/janniklasrose/lumen-slicer
+
+### DT-CMR simulations
+
+Simulations:
+
+- https://github.com/janniklasrose/RWcDTI
+- https://github.com/janniklasrose/DTpy
+- https://github.com/janniklasrose/FV-RW-verification
+
+Mathematical modelling:
+
+- https://github.com/janniklasrose/diffusion-models
+- https://github.com/janniklasrose/chebroots
+
+Substrate generation:
+
+- https://github.com/janniklasrose/microscopy-image-processing
+- https://github.com/janniklasrose/cell-packing
+- https://github.com/janniklasrose/cell-morphing
+
+### Random stuff
+
+- https://github.com/janniklasrose/aerofoil-generator
+- https://github.com/janniklasrose/latex-playground
+- https://github.com/janniklasrose/RayBox
